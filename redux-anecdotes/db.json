@@ -1,0 +1,59 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "47145",
+      "votes": 21
+    },
+    {
+      "content": "Adding manpower to a late software project makes it later!",
+      "id": "21149",
+      "votes": 4
+    },
+    {
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "id": "69581",
+      "votes": 48
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "id": "36975",
+      "votes": 4
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 4
+    },
+    {
+      "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "id": "98312",
+      "votes": 5
+    },
+    {
+      "content": "Redux is awesome!",
+      "votes": 9,
+      "id": "wvR8TAM"
+    },
+    {
+      "content": "redux thunk is very useful!",
+      "votes": 5,
+      "id": "1YpwuD7"
+    },
+    {
+      "content": "La luna es oscura y la vida es una mierda",
+      "votes": 5,
+      "id": "Wvnp1lL"
+    },
+    {
+      "content": "New Anecdote!",
+      "votes": 5,
+      "id": "QaXkUFn"
+    },
+    {
+      "content": "FINISHED!!!!!",
+      "votes": 2,
+      "id": "35EfUJQ"
+    }
+  ]
+}
